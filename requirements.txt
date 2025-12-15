@@ -17,4 +17,4 @@ streamlit
 groq
 edge-tts
 SpeechRecognition
-pyaudio
+

@@ -46,3 +46,6 @@ rag/chroma_db/
 
 # Logs
 *.log
+
+# Local virtualenv
+.venv/
